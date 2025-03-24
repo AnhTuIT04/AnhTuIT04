@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AnhTuIT04
-- 👀 I’m interested in YOU
+- 👀 I’m a Full-Stack Developer, Web Scraper
 - 🌱 I’m currently learning PYTHON, C/C++/ JAVASCRIPT, NODEJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
